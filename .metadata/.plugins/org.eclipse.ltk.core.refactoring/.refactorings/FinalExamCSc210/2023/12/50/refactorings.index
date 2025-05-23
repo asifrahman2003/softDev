@@ -1,0 +1,42 @@
+1702575378484	Delete element
+1702575419332	Move compilation unit
+1702575497197	Delete element
+1702575500637	Delete element
+1702579052912	Delete element
+1702579140803	Delete element
+1702579154924	Delete element
+1702581422012	Rename method 'nthLargest'
+1702582126832	Rename local variable 'revealed'
+1702582261145	Rename local variable 'i'
+1702582672837	Rename method 'addLast'
+1702582693254	Rename local variable 'newNode'
+1702582698629	Rename local variable 'current'
+1702582715544	Rename local variable 'result'
+1702582726336	Rename local variable 'current'
+1702583306884	Rename local variable 'position'
+1702583316913	Rename local variable 't'
+1702583325472	Rename local variable 'list'
+1702583336547	Rename method 'inorderTraversal'
+1702583343016	Rename local variable 't'
+1702583347902	Rename local variable 'arrayList'
+1702583410681	Rename local variable 'position'
+1702583493251	Rename type 'ArrayBagIterator'
+1702583510940	Rename field 'currentIndex'
+1702583592788	Rename local variable 'element'
+1702583777748	Rename local variable 'inFile'
+1702583783481	Rename local variable 'course'
+1702583789063	Rename local variable 'student'
+1702583800008	Rename local variable 'courses'
+1702583928116	Rename local variable 'scene'
+1702583937565	Rename local variable 'quantityLabel'
+1702583945006	Rename local variable 'quantity'
+1702583949848	Rename local variable 'priceLabel'
+1702583955479	Rename local variable 'subTotalLabel'
+1702583985744	Rename local variable 'quantity'
+1702583990613	Rename local variable 'price'
+1702584013787	Rename field 'quantityTextField'
+1702584025353	Rename field 'priceTextField'
+1702584044922	Rename field 'subTotalPriceLabel'
+1702584051404	Rename field 'subTotal'
+1702584062603	Rename method 'configureGridPane'
+1702584078214	Rename method 'calculateAndUpdateSubTotal'

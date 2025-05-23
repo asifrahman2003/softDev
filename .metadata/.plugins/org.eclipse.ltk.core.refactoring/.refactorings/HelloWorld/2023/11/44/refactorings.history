@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;current&apos; in &apos;codeDemoDone.OurList.remove(...)&apos; to &apos;presentNode&apos;&#x0A;- Original project: &apos;HelloWorld&apos;&#x0A;- Original element: &apos;codeDemoDone.OurList.remove(E).current&apos;&#x0A;- Renamed element: &apos;current&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;current&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;codeDemoDone{OurList.java[OurList~remove~QE;@current!1585!1605!1590!1596!QNode;!0!false" name="presentNode" references="true" stamp="1699075031031" version="1.0"/>
+</session>

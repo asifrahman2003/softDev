@@ -1,0 +1,10 @@
+1697515152919	Rename type 'PrefixExpressionTreeTest'
+1697515217648	Rename type 'PrefixExpressionTree'
+1697592321102	Delete element
+1697592338826	Delete element
+1697611654382	Rename local variable 'targetLevel'
+1697611678225	Rename local variable 'currentLevel'
+1697611701537	Rename local variable 'leftHeight'
+1697611705684	Rename local variable 'rightHeight'
+1697611765652	Rename local variable 'targetedLevel'
+1697611774247	Rename local variable 'newLevel'
